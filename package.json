@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/erraX/util#readme",
   "dependencies": {
-    "mocha": "^2.4.5",
     "should": "^8.3.1"
   }
 }
